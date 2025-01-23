@@ -6,7 +6,6 @@
  *        /\_/\
  *       ( o.o )  <-- Bunny Approved Code!
  *        > ^ <
- * 
  * Project: Dynamic Programming DEMO - Part 1
  * Topic: Subset Sum - Sum All (Exercise 39)
  * File: exercise39_subset_sum_all.cpp
