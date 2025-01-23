@@ -1,12 +1,25 @@
-/* Programmer: Leslye Hernandez Jimenez
+/* 
+ * Programmer: Leslye Hernandez Jimenez
+ * Email: hernandezleslye45@gmail.com
+ * Instagram: @hku_ls
+ * 
  *        /\_/\
- *       ( o.o )    
+ *       ( o.o )  <-- Bunny Approved Code!
  *        > ^ <
- * Dynamic programming DEMO: part1 sum brute force
- * Exercise 36
- * Fecha: 23/01/2025
- * c++ exercise36_subset_sum_brute_force.cpp -o exercise36_subset_sum_brute_force.exe
+ * 
+ * Project: Dynamic Programming DEMO - Part 1
+ * Topic: Subset Sum - Brute Force Approach (Exercise 36)
+ * File: exercise36_subset_sum_brute_force.cpp
+ * Compiled: c++ exercise36_subset_sum_brute_force.cpp -o exercise36_subset_sum_brute_force.exe
+ * Date: 23/01/2025
+ * 
+ * Description: 
+ * This program demonstrates a brute-force approach to solving the subset sum problem. 
+ * It explores all possible subsets of a given set of integers and calculates the sum for
+ * each subset to determine the possible sums that can be formed. While this approach is straightforward,
+ * it is computationally expensive for large input sizes due to its exponential complexity.
  */
+
 
 #include <iostream>
 #include <vector>

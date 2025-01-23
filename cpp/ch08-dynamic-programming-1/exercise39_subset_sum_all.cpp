@@ -1,11 +1,22 @@
-/* Programmer: Leslye Hernandez Jimenez
+/* 
+ * Programmer: Leslye Hernandez Jimenez
+ * Email: hernandezleslye45@gmail.com
+ * Instagram: @hku_ls
+ * 
  *        /\_/\
- *       ( o.o )    
+ *       ( o.o )  <-- Bunny Approved Code!
  *        > ^ <
- * Dynamic programming DEMO: part1 sum all
- * Exercise 39 
- * Fecha: 23/01/2025
- * c++ exercise39_subset_sum_all.cpp -o exercise39_subset_sum_all.exe
+ * 
+ * Project: Dynamic Programming DEMO - Part 1
+ * Topic: Subset Sum - Sum All (Exercise 39)
+ * File: exercise39_subset_sum_all.cpp
+ * Compiled: c++ exercise39_subset_sum_all.cpp -o exercise39_subset_sum_all.exe
+ * Date: 23/01/2025
+ * 
+ * Description: 
+ * This program demonstrates the use of dynamic programming to solve 
+ * the subset sum problem, where the goal is to find all possible sums 
+ * that can be formed using subsets of a given set of integers.
  */
 
 #include <iostream>
